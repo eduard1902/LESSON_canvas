@@ -1,1 +1,1 @@
-# LESSON_canvas
+# lesson-day-3
